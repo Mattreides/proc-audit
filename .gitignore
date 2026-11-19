@@ -1,0 +1,5 @@
+# saved audit output and binaries recovered from /proc/<pid>/exe
+*.log
+*.bin
+*.swp
+*~
